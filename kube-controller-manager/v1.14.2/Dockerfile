@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kube-controller-manager-amd64:v1.14.2
+FROM gcr.io/google-containers/kube-controller-manager:v1.14.2
 MAINTAINER huison
